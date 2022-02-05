@@ -4,10 +4,81 @@ title: Lecture Notes
 uid: a9f8e2bf-0abc-153a-ee15-56514fecae9b
 ---
 
-| WEEK # | TOPICS | CLASS NOTES |
-| --- | --- | --- |
-| I | Introduction and Beethoven | [Week I Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_250s14_week_i) |
-| II | Beethoven and Rossini; Bellini; Field; Schubert | [Week II Class Notes(PDF)]({{< baseurl >}}/resources/mit21m_250s14_week_ii) |
-| III–VI | Romantic Lieder and Characterstücke | [Weeks III–VI Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_250s14_week_iii-vi) |
-| VII–VIII | Wagner and Verdi (Wagner) | [Weeks VII–VIII Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_250s14_week_vii-viii) |
-| VIII | Wagner and Verdi (Verdi) | [Week VIII Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_250s14_week_viii)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+CLASS NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Beethoven
+{{< tdclose >}}
+{{< tdopen >}}
+[Week I Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_250s14_week_i)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+II
+{{< tdclose >}}
+{{< tdopen >}}
+Beethoven and Rossini; Bellini; Field; Schubert
+{{< tdclose >}}
+{{< tdopen >}}
+[Week II Class Notes(PDF)]({{< baseurl >}}/resources/mit21m_250s14_week_ii)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+III–VI
+{{< tdclose >}}
+{{< tdopen >}}
+Romantic Lieder and Characterstücke
+{{< tdclose >}}
+{{< tdopen >}}
+[Weeks III–VI Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_250s14_week_iii-vi)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VII–VIII
+{{< tdclose >}}
+{{< tdopen >}}
+Wagner and Verdi (Wagner)
+{{< tdclose >}}
+{{< tdopen >}}
+[Weeks VII–VIII Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_250s14_week_vii-viii)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VIII
+{{< tdclose >}}
+{{< tdopen >}}
+Wagner and Verdi (Verdi)
+{{< tdclose >}}
+{{< tdopen >}}
+[Week VIII Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_250s14_week_viii)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -55,29 +55,244 @@ There will be two exams. Each exam will cover the assigned listening and reading
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 2 Exams | 15% each |
-| 3 Concert reports | 10% each |
-| 2–3 Listening guides | 10–15% each |
-| Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 Exams
+{{< tdclose >}}
+{{< tdopen >}}
+15% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Concert reports
+{{< tdclose >}}
+{{< tdopen >}}
+10% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–3 Listening guides
+{{< tdclose >}}
+{{< tdopen >}}
+10–15% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| I | Introduction and Beethoven | &nbsp; |
-| II | Beethoven and Rossini; Bellini; Field; Schubert | &nbsp; |
-| III | _Lieder_; Felix and Fanny Mendelssohn; Weber | &nbsp; |
-| IV | Meyerbeer; Glinka; Paganini; Liszt | Concert Report 1 due |
-| V | Schumann; Berlioz; Chopin; | &nbsp; |
-| VI | Gottschalk; David; Smetana; Balakirev | &nbsp; |
-| VII | Exam Week; Wagner and Verdi | Exam 1 |
-| VIII | Wagner and Verdi (cont.) | Concert Report 2 due |
-| IX | Musorgsky; Tchaikovsky; Bizet; Puccini | &nbsp; |
-| X | Brahms | &nbsp; |
-| XI | Symphony | &nbsp; |
-| XII | The Symphony; Mahler | Concert Report 3 due |
-| XIII | Exam Week | Exam 2 |
-| XIV | Wrap-up and Informal Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Beethoven
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+II
+{{< tdclose >}}
+{{< tdopen >}}
+Beethoven and Rossini; Bellini; Field; Schubert
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+III
+{{< tdclose >}}
+{{< tdopen >}}
+_Lieder_; Felix and Fanny Mendelssohn; Weber
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IV
+{{< tdclose >}}
+{{< tdopen >}}
+Meyerbeer; Glinka; Paganini; Liszt
+{{< tdclose >}}
+{{< tdopen >}}
+Concert Report 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+V
+{{< tdclose >}}
+{{< tdopen >}}
+Schumann; Berlioz; Chopin;
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VI
+{{< tdclose >}}
+{{< tdopen >}}
+Gottschalk; David; Smetana; Balakirev
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VII
+{{< tdclose >}}
+{{< tdopen >}}
+Exam Week; Wagner and Verdi
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VIII
+{{< tdclose >}}
+{{< tdopen >}}
+Wagner and Verdi (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Concert Report 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IX
+{{< tdclose >}}
+{{< tdopen >}}
+Musorgsky; Tchaikovsky; Bizet; Puccini
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+Brahms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XI
+{{< tdclose >}}
+{{< tdopen >}}
+Symphony
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XII
+{{< tdclose >}}
+{{< tdopen >}}
+The Symphony; Mahler
+{{< tdclose >}}
+{{< tdopen >}}
+Concert Report 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XIII
+{{< tdclose >}}
+{{< tdopen >}}
+Exam Week
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XIV
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up and Informal Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
