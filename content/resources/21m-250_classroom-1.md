@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2cb302aa-7633-a76a-63a7-9e4e27e2c938
 resourcetype: Image
 title: 21M-250_classroom-1.jpg
 uid: d5963606-355c-6c32-111d-cb17166cbaec
